@@ -1,0 +1,33 @@
+{
+  "name": "ar-advance-todo-list",
+  "version": "1.0.0",
+  "description": "TypeScript Advance Todo List CLI with Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah-Rasool/Advance-todo-list.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Node.js",
+    "CLI",
+    "Todo List"
+  ],
+  "author": "Abdullah Rasool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdullah-Rasool/Advance-todo-list/issues"
+  },
+  "homepage": "https://github.com/Abdullah-Rasool/Advance-todo-list#readme",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
